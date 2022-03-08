@@ -3,16 +3,16 @@
 ## Action
 
 ### URL
-LinkBehaviour_7069F163_67A6_9252_41D4_E2A33BD0FD39.source = http://www.loremipsum.com
+LinkBehaviour_439FDD52_67A6_9273_41C4_82276BC27C69.source = http://www.loremipsum.com
 LinkBehaviour_6884EAB3_6779_9631_41C5_AAB2A6196EFE.source = http://www.loremipsum.com
-LinkBehaviour_706ED147_67A6_9252_41D6_8912EFDDE21F.source = https://linklist.bio/harumicampesina
-LinkBehaviour_706E0148_67A6_925E_41D6_3CB614361E55.source = https://linklist.bio/harumicampesina
-LinkBehaviour_727F9605_6799_B1D6_41B5_22FABF6554D1.source = https://linklist.bio/harumicampesina
-LinkBehaviour_706E5148_67A6_925E_41C5_9C65847C6501.source = https://linklist.bio/harumicampesina
-LinkBehaviour_72B903E7_679A_F652_41B2_5D1F5F20A8A7.source = https://linklist.bio/harumicampesina
+LinkBehaviour_43893D16_67A6_93F3_41C3_EFD0117D302C.source = https://linklist.bio/harumicampesina
+LinkBehaviour_4386FD16_67A6_93F3_41CD_2F6C75FEFD3E.source = https://linklist.bio/harumicampesina
+LinkBehaviour_439CED55_67A6_9271_41A3_6623C47D1E87.source = https://linklist.bio/harumicampesina
 LinkBehaviour_71856804_6799_B1D6_41D9_181FFA695A3B.source = https://linklist.bio/harumicampesina
-WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_72B903E7_679A_F652_41B2_5D1F5F20A8A7.source = https://linklist.bio/harumicampesina
+LinkBehaviour_727F9605_6799_B1D6_41B5_22FABF6554D1.source = https://linklist.bio/harumicampesina
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 
 ## Hotspot
 
@@ -43,16 +43,18 @@ panorama_6C28205A_676E_9273_41C8_810722F4C7BD.label = Térreo
 ## Skin
 
 ### Button
-Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = CONTACT
 Button_1830D20E_17B1_6AC3_4198_688BED36E073_mobile.label = CONTACT
+Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = CONTACT
 Button_7388D664_676B_9E57_41BC_0488C938A898_mobile.label = FOTOS 360°
 Button_7388D664_676B_9E57_41BC_0488C938A898.label = FOTOS 360°
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = IFOOD
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = IFOOD
+Button_794888E6_67A9_F253_41D2_9093D808F45D.label = IMAGEM AÉREA
+Button_794888E6_67A9_F253_41D2_9093D808F45D_mobile.label = IMAGEM AÉREA
 Button_727EF605_6799_B1D6_41D4_06B17CC15CBC_mobile.label = NOSSOS CONTATOS
 Button_727EF605_6799_B1D6_41D4_06B17CC15CBC.label = NOSSOS CONTATOS
-Button_71844804_6799_B1D6_41D6_51AC92950632.label = RAPPI
 Button_71844804_6799_B1D6_41D6_51AC92950632_mobile.label = RAPPI
+Button_71844804_6799_B1D6_41D6_51AC92950632.label = RAPPI
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
@@ -83,6 +85,7 @@ HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2_mobile.html = <div style="text-ali
 ## Tour
 
 ### Description
+tour.description = R. Aurora Soares Barbosa, 461 - Vila Campesina, Osasco
 
 ### Title
-tour.name = Sem Título 81
+tour.name = Harumi Sushi Campesina - Tour Virtual 360°
