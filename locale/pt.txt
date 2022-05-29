@@ -8,11 +8,15 @@ LinkBehaviour_6884EAB3_6779_9631_41C5_AAB2A6196EFE.source = http://www.loremipsu
 LinkBehaviour_43893D16_67A6_93F3_41C3_EFD0117D302C.source = https://linklist.bio/harumicampesina
 LinkBehaviour_4386FD16_67A6_93F3_41CD_2F6C75FEFD3E.source = https://linklist.bio/harumicampesina
 LinkBehaviour_439CED55_67A6_9271_41A3_6623C47D1E87.source = https://linklist.bio/harumicampesina
-LinkBehaviour_71856804_6799_B1D6_41D9_181FFA695A3B.source = https://linklist.bio/harumicampesina
 LinkBehaviour_72B903E7_679A_F652_41B2_5D1F5F20A8A7.source = https://linklist.bio/harumicampesina
-LinkBehaviour_727F9605_6799_B1D6_41B5_22FABF6554D1.source = https://linklist.bio/harumicampesina
+LinkBehaviour_71856804_6799_B1D6_41D9_181FFA695A3B.source = https://linklist.bio/harumicampesina
+LinkBehaviour_2435EECD_0DFE_BBE6_4165_C82047E58EFC.source = https://linklist.bio/harumicampesina
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_21B881E9_0DFA_E9AE_41A1_770009D0F599.source = https://www.instagram.com/harumisushicampesina/
+LinkBehaviour_24A5FA55_0DF9_BAE6_4193_FFC8505248F0.source = https://www.instagram.com/harumisushicampesina/
+LinkBehaviour_26CC3422_0DFB_AEA2_417C_8BA2F21FC26C.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_27347AEB_0DF9_9BA1_419F_F91CD2781BC8.source = https://www.instagram.com/meunegocioweb360/
 
 ## Hotspot
 
@@ -24,7 +28,6 @@ HotspotPanoramaOverlayTextImage_6890F270_6779_964F_41D5_95EA8112CA46.text = HARU
 
 ### Audio
 audiores_7CD1D658_67A9_BE7E_41CB_A7D322D344A3.mp3Url = media/audio_7F3B82E9_67AE_965E_41D5_1A4272F470C4_pt.mp3
-audiores_7CD1D658_67A9_BE7E_41CB_A7D322D344A3.oggUrl = media/audio_7F3B82E9_67AE_965E_41D5_1A4272F470C4_pt.ogg
 
 ### Image
 imlevel_7D02EB22_67AF_97D3_41C0_68C23CCDD1B9.url = media/panorama_6C288C77_676F_B232_415F_32FD34E85254_HS_1qighlqq_pt.png
@@ -40,6 +43,11 @@ panorama_6C28F9A3_676F_92D1_41D7_F6D0324C160C.label = Fachada
 panorama_6C289520_676E_73CF_41A7_2075A003D9F4.label = Terreo 2
 panorama_6C28205A_676E_9273_41C8_810722F4C7BD.label = Térreo
 
+## Right Click Menu
+
+### Text
+TDVAuthor.label = @meunegocioweb360
+
 ## Skin
 
 ### Button
@@ -51,10 +59,10 @@ Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = IFOOD
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = IFOOD
 Button_794888E6_67A9_F253_41D2_9093D808F45D.label = IMAGEM AÉREA
 Button_794888E6_67A9_F253_41D2_9093D808F45D_mobile.label = IMAGEM AÉREA
+Button_2434BECB_0DFE_BBE2_4173_6E5204F9CBCA.label = NOSSOS CONTATOS
 Button_727EF605_6799_B1D6_41D4_06B17CC15CBC_mobile.label = NOSSOS CONTATOS
-Button_727EF605_6799_B1D6_41D4_06B17CC15CBC.label = NOSSOS CONTATOS
-Button_71844804_6799_B1D6_41D6_51AC92950632_mobile.label = RAPPI
 Button_71844804_6799_B1D6_41D6_51AC92950632.label = RAPPI
+Button_71844804_6799_B1D6_41D6_51AC92950632_mobile.label = RAPPI
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
@@ -63,6 +71,8 @@ Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
+Image_2741CB11_0DFE_9A61_4198_BFB9787B7F2A.url = skin/Image_2741CB11_0DFE_9A61_4198_BFB9787B7F2A_pt.png
+Image_27AC7A33_0DFA_BAA2_4193_D38CB4350EFB.url = skin/Image_27AC7A33_0DFA_BAA2_4193_D38CB4350EFB_pt.png
 Image_74F64F3D_676E_6E31_41D0_690B1E06B370_mobile.url = skin/Image_74F64F3D_676E_6E31_41D0_690B1E06B370_mobile_pt.png
 Image_74F64F3D_676E_6E31_41D0_690B1E06B370.url = skin/Image_74F64F3D_676E_6E31_41D0_690B1E06B370_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png

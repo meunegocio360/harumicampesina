@@ -36,10 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
  "name": "Harumi Sushi Campesina - Tour Virtual 360°",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
  "description": "R. Aurora Soares Barbosa, 461 - Vila Campesina, Osasco",
- "background_color": "#FFFFFF"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
